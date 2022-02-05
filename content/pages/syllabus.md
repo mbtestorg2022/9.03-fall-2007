@@ -27,43 +27,475 @@ In each class, two assigned articles will be presented by students, followed by 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class presentations and participation | 25% |
-| Twelve 8-minute quizzes | 25% |
-| Mid-term test | 25% |
-| Final examination | 25% |
-| (Optional 10-15 page paper) | (20%) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class presentations and participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Twelve 8-minute quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term test
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final examination
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+(Optional 10-15 page paper)
+{{< tdclose >}}
+{{< tdopen >}}
+(20%)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| LEC # | TOPICS | INSTRUCTORS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | The psychology of learning and memory | Wilson | &nbsp; |
-| 2 | The neuroscience of learning and memory | Wilson | &nbsp; |
-| 3 | The neuroscience of learning and memory (cont.) | David Ziegler | 8 minutes quiz |
-| 4 | Episodic and semantic memory: memory for facts and events | Corkin | &nbsp; |
-| 5 | Episodic and semantic memory: memory for facts and events (cont.) | Corkin | 8 minutes quiz |
-| 6 | Episodic and semantic memory: memory for facts and events (cont.) | Corkin | 8 minutes quiz |
-| 7 | Skill memory: learning by doing | Vincent Cheung | &nbsp; |
-| 8 | Skill memory: learning by doing (cont.) | Corkin | 8 minutes quiz |
-| 9 | Working memory and executive control | Paymon Hosseini | 8 minutes quiz |
-| 10 | Working memory and executive control (cont.) | Corkin | &nbsp; |
-| 11 | Non-associative learning: learning about repeated events | Wilson | 8 minutes quiz |
-| 12 | Non-associative learning: learning about repeated events (cont.) | Wilson | &nbsp; |
-| 13 | Classical conditioning: learning to predict important events | Wilson | 8 minutes quiz |
-| 14 | Classical conditioning: learning to predict important events (cont.) | Wilson | &nbsp; |
-| {{< td-colspan 4 >}}**Mid-term test**{{< /td-colspan >}} ||||
-| 15 | Instrumental conditioning: learning the consequences of behavior | Wilson | &nbsp; |
-| 16 | Instrumental conditioning: learning the consequences of behavior (cont.) | Wilson | 8 minutes quiz |
-| 17 | Generalization, discrimination, and the representation of similarity | Wilson | 8 minutes quiz |
-| 18 | Generalization, discrimination, and the representation of similarity (cont.) | Wilson | &nbsp; |
-| 19 | Observational learning: watching, listening, and remembering | Wilson | 8 minutes quiz |
-| 20 | Observational learning: watching, listening, and remembering (cont.) | Josh Sarinana | &nbsp; |
-| 21 | Emotional leaning and memory | Corkin | 8 minutes quiz |
-| 22 | Emotional leaning and memory (cont.) | Corkin | &nbsp; |
-| 23 | Learning and memory across the lifespan | Corkin | 8 minutes quiz |
-| 24 | Learning and memory across the lifespan (cont.) | Corkin | &nbsp; |
-| 25 | Language learning: communication and cognition | Corkin | 8 minutes quiz |
-| {{< td-colspan 4 >}}**Final examination**{{< /td-colspan >}} |||
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTORS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The psychology of learning and memory
+{{< tdclose >}}
+{{< tdopen >}}
+Wilson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The neuroscience of learning and memory
+{{< tdclose >}}
+{{< tdopen >}}
+Wilson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The neuroscience of learning and memory (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+David Ziegler
+{{< tdclose >}}
+{{< tdopen >}}
+8 minutes quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Episodic and semantic memory: memory for facts and events
+{{< tdclose >}}
+{{< tdopen >}}
+Corkin
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Episodic and semantic memory: memory for facts and events (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Corkin
+{{< tdclose >}}
+{{< tdopen >}}
+8 minutes quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Episodic and semantic memory: memory for facts and events (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Corkin
+{{< tdclose >}}
+{{< tdopen >}}
+8 minutes quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Skill memory: learning by doing
+{{< tdclose >}}
+{{< tdopen >}}
+Vincent Cheung
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Skill memory: learning by doing (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Corkin
+{{< tdclose >}}
+{{< tdopen >}}
+8 minutes quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Working memory and executive control
+{{< tdclose >}}
+{{< tdopen >}}
+Paymon Hosseini
+{{< tdclose >}}
+{{< tdopen >}}
+8 minutes quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Working memory and executive control (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Corkin
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Non-associative learning: learning about repeated events
+{{< tdclose >}}
+{{< tdopen >}}
+Wilson
+{{< tdclose >}}
+{{< tdopen >}}
+8 minutes quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Non-associative learning: learning about repeated events (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Wilson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Classical conditioning: learning to predict important events
+{{< tdclose >}}
+{{< tdopen >}}
+Wilson
+{{< tdclose >}}
+{{< tdopen >}}
+8 minutes quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Classical conditioning: learning to predict important events (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Wilson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Mid-term test**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Instrumental conditioning: learning the consequences of behavior
+{{< tdclose >}}
+{{< tdopen >}}
+Wilson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Instrumental conditioning: learning the consequences of behavior (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Wilson
+{{< tdclose >}}
+{{< tdopen >}}
+8 minutes quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Generalization, discrimination, and the representation of similarity
+{{< tdclose >}}
+{{< tdopen >}}
+Wilson
+{{< tdclose >}}
+{{< tdopen >}}
+8 minutes quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Generalization, discrimination, and the representation of similarity (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Wilson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Observational learning: watching, listening, and remembering
+{{< tdclose >}}
+{{< tdopen >}}
+Wilson
+{{< tdclose >}}
+{{< tdopen >}}
+8 minutes quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Observational learning: watching, listening, and remembering (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Josh Sarinana
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Emotional leaning and memory
+{{< tdclose >}}
+{{< tdopen >}}
+Corkin
+{{< tdclose >}}
+{{< tdopen >}}
+8 minutes quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Emotional leaning and memory (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Corkin
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Learning and memory across the lifespan
+{{< tdclose >}}
+{{< tdopen >}}
+Corkin
+{{< tdclose >}}
+{{< tdopen >}}
+8 minutes quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Learning and memory across the lifespan (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Corkin
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Language learning: communication and cognition
+{{< tdclose >}}
+{{< tdopen >}}
+Corkin
+{{< tdclose >}}
+{{< tdopen >}}
+8 minutes quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Final examination**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
